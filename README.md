@@ -37,9 +37,13 @@ The data frame has 10000 rows and 17 columns.
 The variables in the data are squareMetres, numberOfRooms, hasYard, hasPool, floors, cityCode, cityPartRange, numPrevOwners,	made,	isNewBuilt,	hasStormProtector,	basement,	attic,	garage,	hasStorageRoom,	hasGuestRoom	and price. 
 For modeling purposes, cityCode and cityPartRange were dropped due to a mismatch between town codes and the town names.
 The variables were further categorized into 2 classes, dependent variables and independent variables.
+  
   Dependent variable:
+   
     .Price
+  
   Independent variable:
+    
     . Square meters
     . No of rooms
     . Has pool
