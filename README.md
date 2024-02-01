@@ -57,5 +57,21 @@ The variables were further categorized into 2 classes, dependent variables and i
     . Storage room
     . Guest room
   
+### Visualizations
 
+
+
+# 1. Heatmap of variable relationships
+![Screenshot 2024-02-01 095110](https://github.com/sarah10001/Paris_Phase_2_Project/assets/141912187/3f5b23c4-690d-4714-8569-01dfdf6e1217)
+
+
+# 2. Correlation with Price
+![Screenshot 2024-02-01 095204](https://github.com/sarah10001/Paris_Phase_2_Project/assets/141912187/824cd82f-8739-4514-bb28-e7c572c367df)
+
+
+# 3. Predicted Regression Line
+![Screenshot 2024-02-01 095258](https://github.com/sarah10001/Paris_Phase_2_Project/assets/141912187/4d669d23-2235-4dc3-b4d4-0464bba8af26)
+
+
+### Conclusion
 
