@@ -1,5 +1,7 @@
 [notebook file](https://github.com/sarah10001/Paris_Phase_2_Project/blob/main/Housing%20Prediction%20Model.ipynb)
+
 [Presentation slides](https://www.canva.com/design/DAF7hB_5voU/Qdle8P-0QeZ-RsJfIVmDwg/edit)
+
 # Paris Housing Project 
 
 ## Overview
